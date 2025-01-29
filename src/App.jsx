@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  const [message, setMessage] = useState("This is a simple and professional page.");
+  const [message, setMessage] = useState("React assignment page");
 
   const handleClick = () => {
     setMessage("You clicked the button!");

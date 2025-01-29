@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-  background: white;
+  background: rgb(122, 145, 165);
   padding: 20px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
@@ -19,15 +19,15 @@ body {
 }
 
 h1 {
-  color: #333;
+  color: #551755;
 }
 
 p {
-  color: #666;
+  color: #452c54;
 }
 
 button {
-  background-color: #007bff;
+  background-color: #7db3ed;
   color: white;
   border: none;
   padding: 10px 20px;
